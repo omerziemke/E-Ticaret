@@ -90,7 +90,7 @@
                             <p class="price">129 ₺</p>
                         </div>
                         <div class="col-md-3 product">
-                            <a href="#"><img src="http://lorempixel.com/400/400/food/4"></a>
+                            <a href="#"><img src="http://lorempixel.com/400/400/food/3"></a>
                             <p><a href="#">Ürün adı</a></p>
                             <p class="price">129 ₺</p>
                         </div>
